@@ -1,0 +1,57 @@
+# Pet Travel Tips & Checklists
+
+## Planning Pet Travel
+- Check airline and country regulations for pet travel (vaccinations, microchips, quarantine, breed restrictions).
+- Visit the vet for a health check and required vaccinations/certificates.
+- Obtain a pet passport or international health certificate if needed.
+- Research pet-friendly destinations, accommodations, and activities.
+- Consider your pet's temperament and health before planning long trips.
+
+## Documentation & Preparation
+- Bring vaccination records, microchip info, and health certificates.
+- Pack enough food, treats, and bottled water for the journey.
+- Bring familiar items (toys, bedding, blanket) to comfort your pet.
+- Pack a leash, harness, carrier, and waste bags.
+- Carry a recent photo of your pet in case they get lost.
+
+## Transport: Flying with Pets
+- Book direct flights when possible to minimize stress.
+- Check airline policies for in-cabin vs. cargo travel (size/weight limits, carrier requirements).
+- Acclimate your pet to their carrier before the trip.
+- Avoid sedating pets unless advised by a vet.
+- Arrive early at the airport and allow extra time for check-in.
+- Attach ID tags and contact info to your pet's collar and carrier.
+
+## Transport: Road Trips & Other Modes
+- Use a secure carrier, harness, or pet seatbelt in the car.
+- Take regular breaks for exercise, water, and bathroom needs.
+- Never leave pets alone in a parked car (risk of heatstroke or theft).
+- For trains, buses, or ferries, check pet policies in advance.
+
+## Accommodation & Activities
+- Book pet-friendly hotels, rentals, or campgrounds in advance.
+- Ask about pet fees, size/breed restrictions, and amenities (pet beds, bowls, walking areas).
+- Research local parks, trails, and pet-friendly attractions.
+- Respect property rules and clean up after your pet.
+
+## Health & Safety
+- Bring a pet first aid kit (bandages, antiseptic, tweezers, tick remover).
+- Know the location of local vets and emergency clinics.
+- Protect against fleas, ticks, and parasites (use preventatives).
+- Monitor your pet for signs of stress, illness, or dehydration.
+
+## Destination-Specific Tips
+- **EU:** Pet passport and microchip required; rabies vaccination mandatory.
+- **USA/Canada:** Health certificate and rabies vaccination required; some states/provinces have extra rules.
+- **Australia/NZ:** Strict quarantine and import rules; plan months in advance.
+- **Asia/Africa:** Rules vary widely; check embassy or government websites.
+
+## Pet Travel Checklist
+- [ ] Vet visit and vaccinations complete
+- [ ] Pet passport/health certificate packed
+- [ ] Food, treats, water, and bowls packed
+- [ ] Carrier, leash, harness, and waste bags packed
+- [ ] Medications and first aid kit packed
+- [ ] Pet-friendly accommodation booked
+- [ ] Local vet and emergency contacts saved
+- [ ] Recent photo and ID tags on pet 

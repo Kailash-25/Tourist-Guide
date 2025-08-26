@@ -1,0 +1,57 @@
+# World Travel Records & Superlatives
+
+## Tallest & Highest
+- Tallest building: Burj Khalifa, Dubai (828m)
+- Highest waterfall: Angel Falls, Venezuela (979m)
+- Highest mountain: Mount Everest, Nepal/China (8,848m)
+- Highest capital city: La Paz, Bolivia (3,640m)
+- Highest navigable lake: Lake Titicaca, Peru/Bolivia (3,812m)
+- Highest railway: Qinghai–Tibet Railway, China (5,072m)
+
+## Largest & Longest
+- Largest country by area: Russia
+- Largest city by population: Tokyo, Japan (metro area)
+- Largest desert: Sahara, Africa
+- Largest island: Greenland
+- Largest lake: Caspian Sea (by area), Lake Baikal (by volume)
+- Largest cave: Son Doong, Vietnam
+- Longest river: Nile (Africa) or Amazon (South America, by volume)
+- Longest wall: Great Wall of China (21,196 km)
+- Longest road tunnel: Lærdal Tunnel, Norway (24.5 km)
+- Longest flight: Singapore to New York (about 19 hours)
+- Longest train journey: Trans-Siberian Railway (over 9,000 km)
+- Longest bridge: Danyang–Kunshan Grand Bridge, China (164.8 km)
+
+## Oldest & Most Historic
+- Oldest city: Jericho, West Bank (inhabited for over 11,000 years)
+- Oldest university: University of al-Qarawiyyin, Morocco (founded 859 AD)
+- Oldest hotel: Nishiyama Onsen Keiunkan, Japan (since 705 AD)
+- Oldest national park: Yellowstone, USA (est. 1872)
+
+## Most Visited & Popular
+- Most visited city: Bangkok, Thailand
+- Most visited country: France
+- Most visited museum: Louvre, Paris
+- Most visited natural wonder: Niagara Falls, USA/Canada
+- Most visited theme park: Magic Kingdom, Walt Disney World, USA
+
+## Most Remote & Extreme
+- Most remote inhabited island: Tristan da Cunha, South Atlantic
+- Most remote city: Iqaluit, Canada (no road access)
+- Most isolated continent: Antarctica
+- Coldest inhabited place: Oymyakon, Russia
+- Driest place: Atacama Desert, Chile
+- Hottest recorded temperature: Death Valley, USA (56.7°C/134°F)
+
+## Unique & Unusual Records
+- Only country on two continents: Turkey (Europe & Asia)
+- Only country with a non-rectangular flag: Nepal
+- Only city on two continents: Istanbul, Turkey
+- Largest annual human migration: Chinese New Year (Chunyun)
+- Largest ice hotel: Jukkasjärvi, Sweden
+- Largest salt flat: Salar de Uyuni, Bolivia
+
+## World Records Checklist
+- [ ] Tallest, largest, longest, oldest, and most visited places included
+- [ ] Most remote and extreme destinations featured
+- [ ] Unique and unusual travel records added 

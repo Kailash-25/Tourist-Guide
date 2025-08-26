@@ -1,0 +1,71 @@
+# Useful Travel Apps & Digital Tools
+
+## Navigation & Maps
+- **Google Maps:** Navigation, transit, offline maps
+- **Maps.me:** Offline maps, hiking trails
+- **Citymapper:** Urban transit in major cities
+- **Rome2Rio:** Route planning across all transport modes
+
+## Translation & Language
+- **Google Translate:** Text, voice, camera translation
+- **Duolingo:** Language learning
+- **iTranslate:** Voice and text translation
+- **SayHi:** Voice translation
+
+## Booking & Accommodation
+- **Booking.com:** Hotels, apartments, hostels
+- **Airbnb:** Short- and long-term rentals
+- **Hostelworld:** Hostel bookings
+- **Skyscanner:** Flights, hotels, car rentals
+- **Hopper:** Flight and hotel price predictions
+- **Agoda:** Asia-focused accommodation
+
+## Money & Budgeting
+- **XE Currency:** Real-time currency conversion
+- **Revolut/Monzo/N26:** Travel-friendly banking
+- **Trail Wallet/TravelSpend:** Expense tracking
+- **Splitwise:** Group expense sharing
+- **Wise (TransferWise):** International money transfers
+
+## Safety & Health
+- **Sitata:** Travel alerts, safety info
+- **Red Cross Apps:** First aid, emergency info
+- **FEMA:** US emergency alerts
+- **GeoSure:** Neighborhood safety scores
+- **TravelSmart:** Insurance, emergency contacts
+
+## Food & Dining
+- **HappyCow:** Vegan/vegetarian restaurant finder
+- **OpenTable:** Restaurant reservations
+- **TripAdvisor:** Reviews for restaurants, attractions
+- **Zomato:** Restaurant search (global)
+
+## Local Experiences & Community
+- **Meetup:** Local events and groups
+- **Couchsurfing:** Stay with locals, meetups
+- **Eventbrite:** Local events and activities
+- **Withlocals:** Book local tours and experiences
+- **Showaround:** Local guides for city tours
+
+## Connectivity & Utilities
+- **Airalo:** eSIMs for global data
+- **Speedtest:** Test Wi-Fi speed
+- **VPN apps (NordVPN, ExpressVPN):** Secure internet access
+- **Flush:** Public toilet finder
+- **PackPoint:** Packing list generator
+
+## Weather & Alerts
+- **AccuWeather:** Global weather forecasts
+- **Windy:** Weather maps, wind forecasts
+- **RainViewer:** Real-time rain radar
+
+## Useful Apps Checklist
+- [ ] Navigation and offline maps downloaded
+- [ ] Translation and language apps installed
+- [ ] Booking and accommodation apps ready
+- [ ] Money and budgeting apps set up
+- [ ] Safety and health apps installed
+- [ ] Food and dining apps researched
+- [ ] Local experience/community apps joined
+- [ ] Connectivity and utility apps ready
+- [ ] Weather and alert apps installed 

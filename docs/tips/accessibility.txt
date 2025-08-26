@@ -1,0 +1,52 @@
+# Accessible Travel Tips & Checklists
+
+## Planning Accessible Travel
+- Research destinations with good accessibility infrastructure (public transport, sidewalks, attractions).
+- Check government and tourism board websites for accessibility info.
+- Contact hotels, attractions, and transport providers in advance to confirm accessibility features.
+- Consider working with a travel agent specializing in accessible travel.
+
+## Booking & Accommodation
+- Request accessible rooms (roll-in showers, grab bars, step-free access) when booking.
+- Ask about elevator access, ramps, and door widths.
+- Check for accessible amenities: pool lifts, visual/auditory alarms, service animal policies.
+- Use review sites and apps (AccessibleGO, Wheelmap, AccessNow) for real traveler feedback.
+
+## Transportation
+- Research accessible public transport (low-floor buses, accessible metro stations, adapted taxis).
+- Book wheelchair-accessible airport transfers in advance.
+- Check airline policies for mobility aids, service animals, and pre-boarding.
+- Arrange for assistance at airports and train stations if needed.
+
+## Activities & Attractions
+- Look for accessible tours, museums, and parks.
+- Ask about accessible entrances, restrooms, and seating.
+- Many theme parks and zoos offer accessibility passes or services.
+- National parks often have accessible trails and visitor centers.
+
+## Equipment & Health
+- Bring your own mobility aids (wheelchair, scooter, cane) and spare parts.
+- Rent equipment locally if needed (check availability in advance).
+- Carry a doctor's note and prescriptions for medications and medical devices.
+- Pack extra supplies (catheters, batteries, chargers, etc.).
+- Know the location of local hospitals and pharmacies.
+
+## Region-Specific Tips
+- **Europe:** Accessibility varies by country; older cities may have cobblestones and steps.
+- **USA/Canada:** ADA/Canadian law ensures good accessibility in public spaces.
+- **Asia:** Accessibility is improving in major cities; rural areas may be challenging.
+- **Australia/NZ:** Generally good accessibility; check for beach wheelchairs and accessible trails.
+- **Middle East/Africa:** Accessibility varies; contact providers in advance.
+
+## Resources
+- AccessibleGO, Wheelmap, AccessNow, Sage Traveling, Mobility International USA
+- Local disability organizations and tourism boards
+
+## Accessibility Checklist
+- [ ] Accessible accommodation booked
+- [ ] Transport and transfers arranged
+- [ ] Mobility aids and spare parts packed
+- [ ] Doctor's note and prescriptions ready
+- [ ] Assistance requested at airports/stations
+- [ ] List of accessible attractions and restaurants
+- [ ] Emergency contacts and local hospital info saved 
