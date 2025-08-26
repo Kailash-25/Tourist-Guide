@@ -1,30 +1,28 @@
 # Tourist Guide
 
-This project is a comprehensive tourist guide application. It provides country guides, activities, tips, practical information, and fun facts for travelers.
+This project is a comprehensive Tourist Guide application designed to help users explore destinations, plan activities, and access practical travel information. It includes:
 
-## Features
-- Country guides for all continents
+- Country guides for different regions
 - Activity suggestions (adventure, family, food, shopping, etc.)
-- Practical travel tips and checklists
-- Emergency contacts and useful apps
 - Fun facts and world records
+- Practical tips (safety, budgeting, health, packing, etc.)
+- Useful resources and emergency contacts
+- Static images and uploaded documents for enhanced experience
+
+## Structure
+- `docs/` — Contains guides, tips, and fun facts
+- `static/` — Images for the app interface
+- `main.py` — Main application logic
+- `index.html` — Web interface
+- `requirements.txt` — Python dependencies
 
 ## Getting Started
-1. Clone the repository:
-   ```
-   git clone https://github.com/Kailash-25/Tourist-Guide.git
-   ```
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```
-   python main.py
-   ```
+1. Clone the repository
+2. Install dependencies from `requirements.txt`
+3. Run `main.py` to start the application
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Note
+Large files and binaries are excluded from the repository for performance and compliance with GitHub limits.
 
-## License
-This project is licensed under the MIT License.
+---
+Feel free to contribute or open issues for suggestions and improvements!
